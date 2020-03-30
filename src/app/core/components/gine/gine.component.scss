@@ -1,0 +1,17 @@
+
+.parallaxg {
+    /* The image used */
+    background-image: url("../../../../assets/images/gine3.webp");
+  
+    /* Set a specific height */
+    height: 200px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2 {
+    color: white;
+}
